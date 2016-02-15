@@ -1,0 +1,33 @@
+################################
+# Browser level
+################################
+
+'.source.js, .source.ts':
+
+  'browser.get':
+    prefix: 'brg'
+    body:   'browser.get($1);'
+  'browser.pause':
+    prefix: 'brp'
+    body:   'browser.pause($1);'
+  'browser.getLocationAbsUrl':
+    prefix: 'brgl'
+    body:   'browser.getLocationAbsUrl($1);'
+  'browser.setLocation':
+    prefix: 'brsl'
+    body:   'browser.setLocation($1);'
+  'browser.getCurrentUrl':
+    prefix: 'brgc'
+    body:   'browser.getCurrentUrl($1);'
+  'browser.addMockModule':
+    prefix: 'bram'
+    body:   'browser.addMockModule($1);'
+  'browser.clearMockModules':
+    prefix: 'brcm'
+    body:   'browser.clearMockModules($1);'
+  'browser.wait':
+    prefix: 'brw'
+    body:   'browser.wait($1);'
+  'browser.waitForAngular':
+    prefix: 'brwa'
+    body:   'browser.waitForAngular();'
