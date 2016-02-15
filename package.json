@@ -1,6 +1,6 @@
 {
   "name": "protractor-atom-snippets",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Protractor snippets for atom",
   "main": "index.js",
   "scripts": {
