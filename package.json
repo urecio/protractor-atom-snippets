@@ -1,28 +1,20 @@
 {
-  "name": "js-protractor-sublime-snippets",
-  "version": "0.1",
-  "description": "Protractor snippets for Sublime Text",
+  "name": "protractor-atom-snippets",
+  "version": "1.0.0",
+  "description": "### Locators - `element by.id`: elbi⇥ - `element by.name`: elbn⇥ - `element by.css`: elbc⇥ - `element by.model`: elbm⇥ - `element by.binding`: elbb⇥ - `element.all by.id`: eabi⇥ - `element.all by.name`: eabn⇥ - `element.all by.css`: eabc⇥ - `element.all by.model`: eabm⇥ - `element.all by.binding`: eabb⇥ - `element.all by.repeater`: eabr⇥",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/andreybleme/protractor-sublime-snippets.git"
+    "url": "git+https://github.com/urecio/protractor-atom-snippets.git"
   },
-  "keywords": [
-    "javascript",
-    "sublime",
-    "text",
-    "snippets",
-    "protractor"
-  ],
-  "author": "Lucas Andrey",
-  "license": "MIT",
-  "releases": [
-    {
-      "sublime_text": "*",
-      "tags": true
-    }
-  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "bugs": {
-    "url": "hhttps://github.com/andreybleme/protractor-sublime-snippets/issues"
+    "url": "https://github.com/urecio/protractor-atom-snippets/issues"
   },
-  "homepage": "https://github.com/andreybleme/protractor-sublime-snippets"
+  "homepage": "https://github.com/urecio/protractor-atom-snippets#readme"
 }
