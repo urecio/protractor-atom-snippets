@@ -1,6 +1,6 @@
 {
   "name": "protractor-atom-snippets",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "### Locators - `element by.id`: elbi⇥ - `element by.name`: elbn⇥ - `element by.css`: elbc⇥ - `element by.model`: elbm⇥ - `element by.binding`: elbb⇥ - `element.all by.id`: eabi⇥ - `element.all by.name`: eabn⇥ - `element.all by.css`: eabc⇥ - `element.all by.model`: eabm⇥ - `element.all by.binding`: eabb⇥ - `element.all by.repeater`: eabr⇥",
   "main": "index.js",
   "scripts": {
